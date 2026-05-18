@@ -1,7 +1,7 @@
 # 🛡️ Kidsprotect - Advanced Android Remote Administration Tool (RAT) & MDM Framework
 
 <p align="center">
-  <img src="screnshots/main_panel.png" alt="Kidsprotect Android RAT Control Center" width="650px">
+  <img src="dashboard.PNG" alt="Kidsprotect Android RAT Control Center" width="650px">
 </p>
 
 <p align="center">
@@ -33,17 +33,17 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%">
-      <img src="screnshots/live_audio.PNG" alt="Android RAT Live Audio Stream" width="100%"><br>
+      <img src="live audio.PNG" alt="Android RAT Live Audio Stream" width="100%"><br>
       <b>Ambient Audio Streaming</b><br>
       Real-time, ultra-low latency background microphone listening.
     </td>
     <td align="center" width="33%">
-      <img src="screnshots/live_video.png" alt="Android RAT Live Camera Feed" width="100%"><br>
+      <img src="camera.PNG" alt="Android RAT Live Camera Feed" width="100%"><br>
       <b>Live Camera Streaming</b><br>
       Front and Rear high-fidelity camera feeds piped straight to the browser.
     </td>
     <td align="center" width="33%">
-      <img src="screnshots/ambient.png" alt="Android RAT Ambient Recording" width="100%"><br>
+      <img src="ambient.PNG" alt="Android RAT Ambient Recording" width="100%"><br>
       <b>Ambient Buffer Scheduling</b><br>
       Remotely record offline voice/surround audio chunks and auto-upload later.
     </td>
@@ -55,22 +55,22 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="25%">
-      <img src="screnshots/calls.PNG" alt="Android RAT Call Logs Sync" width="100%"><br>
+      <img src="calls.PNG" alt="Android RAT Call Logs Sync" width="100%"><br>
       <b>Call Log Auditing</b><br>
       Extract full call history (inbound, outbound, missed, durations, and timestamps).
     </td>
     <td align="center" width="25%">
-      <img src="screnshots/sms.PNG" alt="Android RAT SMS Logs surveillance" width="100%"><br>
+      <img src="sms.PNG" alt="Android RAT SMS Logs surveillance" width="100%"><br>
       <b>SMS Logging Matrix</b><br>
       Comprehensive remote query log index of secure text incoming/outgoing content.
     </td>
     <td align="center" width="25%">
-      <img src="screnshots/contacts.png" alt="Android RAT Contact Database Extraction" width="100%"><br>
+      <img src="contacts.PNG" alt="Android RAT Contact Database Extraction" width="100%"><br>
       <b>Contact Directory Backup</b><br>
       One-click dynamic structural extraction of the entire device contact database.
     </td>
     <td align="center" width="25%">
-      <img src="screnshots/files.png" alt="Android RAT Remote File Manager" width="100%"><br>
+      <img src="dashboard.PNG" alt="Android RAT Remote File Manager" width="100%"><br>
       <b>Remote File Manager</b><br>
       Full storage navigation: download, upload, preview, and track target files cleanly.
     </td>
@@ -82,22 +82,22 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="25%">
-      <img src="screnshots/screen.PNG" alt="Android RAT Live Screen Mirroring" width="100%"><br>
+      <img src="screen.PNG" alt="Android RAT Live Screen Mirroring" width="100%"><br>
       <b>Live Screen Mirroring</b><br>
       Low-latency screen feed transmission utilizing native hardware graphics pipelines.
     </td>
     <td align="center" width="25%">
-      <img src="screnshots/screenshots.png" alt="Android RAT Auto Screenshots Loop" width="100%"><br>
+      <img src="screenshots.png" alt="Android RAT Auto Screenshots Loop" width="100%"><br>
       <b>Interval Auto Screenshots</b><br>
       Smart target application trigger capture loops on window focus transitions.
     </td>
     <td align="center" width="25%">
-      <img src="screnshots/keylogger.png" alt="Android RAT System Keylogger" width="100%"><br>
+      <img src="keylogger.PNG" alt="Android RAT System Keylogger" width="100%"><br>
       <b>Keystroke Logging Engine</b><br>
       Transparent keylogger framework registers typed text inputs across all contexts.
     </td>
     <td align="center" width="25%">
-      <img src="screnshots/notifications.PNG" alt="Android RAT Anti Uninstall Safety Shield" width="100%"><br>
+      <img src="notifications.PNG" alt="Android RAT Anti Uninstall Safety Shield" width="100%"><br>
       <b>Anti-Uninstall Ecosystem</b><br>
       Multi-layered persistent Accessibility barriers blocking service tampering.
     </td>
@@ -120,7 +120,8 @@
 ### Native Client Subsystem
 * **Development IDE:** Android Studio (Gradle Automation Platform)
 * **Programming Languages:** Core Native Java (Services, Background Workers & Receivers)
-* **Networking Pipeline Core:** * `Socket.io-client` (High-frequency Port 3000 WebSockets engine for binary array transport)
+* **Networking Pipeline Core:**
+  * `Socket.io-client` (High-frequency Port 3000 WebSockets engine for binary array transport)
   * `OkHttp3` (Secure multi-part file payloads handling with dynamic SSL bypass certificates)
   * Google Firebase Messaging (Lightweight FCM V1 data payload push triggers via OAuth2 protocols)
 
